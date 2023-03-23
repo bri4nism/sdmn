@@ -52,7 +52,7 @@ $config['timeZone'] =  "Asia/Jakarta";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "sql12.freemysqlhosting.net ";
+$config['db']['hostname'] =  "sql12.freemysqlhosting.net";
 $config['db']['username'] =  "sql12606004";
 $config['db']['password'] =  "WH39e967vI";
 $config['db']['database'] =  "sql12606004";
